@@ -1,0 +1,6 @@
+{
+  "name": "บันทึกรายรับรายจ่าย (Expense Tracker)",
+  "description": "ระบบบันทึกรายรับรายจ่ายบนมือถือ สรุปยอดคงเหลือรายเดือน กราฟวิเคราะห์พฤติกรรมการใช้เงิน และส่งออก Google Sheets / Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
